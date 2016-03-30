@@ -28,4 +28,6 @@ public class GoneIfEmptyTextView extends TextView {
             setVisibility(GONE);
         }
     }
+
+
 }
